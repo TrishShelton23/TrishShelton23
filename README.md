@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Trisheia Shelton (No, not Sheldon and I am not related to Plankton)
-- 👀 I’m interested in Web and Graphic Design
-- 🌱 I’m currently learning Front-End Development introducing HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Trisheia Moshaire
+- 🌱 I’m currently learning Front-End Web Development.
 - 📫 How to reach me ...
 
 <!---

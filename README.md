@@ -10,24 +10,24 @@ I create Wireframes, Mockups, and Prototypes to map out my project designs.
 
 **Design Software**
 <br>
-<img src="images/icons/figma-1.png" width="40" alt="figma" title="figma">
-<img src="images/icons/photoshop.png" width="30" alt="photoshop" title="photoshop">
-<img src="images/icons/github.png" width="30" alt="github" title="github">
+<img src="images/icons/figma-1.png" width="35" alt="figma" title="figma">
+<img src="images/icons/photoshop.png" width="35" alt="photoshop" title="photoshop">
+<img src="images/icons/github.png" width="35" alt="github" title="github">
 <hr>
 
 **My favorite coding languages so far...**
 <br>
-<img src="images/icons/html5.png" width="30" alt="html5" title="html5"> 
-<img src="images/icons/css3.png" width="30" alt="css3" title="css3">
+<img src="images/icons/html5.png" width="35" alt="html5" title="html5"> 
+<img src="images/icons/css3.png" width="35" alt="css3" title="css3">
 
 **I am currently learning...**
 <br>
-<img src="images/icons/javascript.png" width="30" alt="javascript" title="javascript">
-<img src="images/icons/bootstrap.png" width="30" alt="bootstrap-4" title="bootstrap-4">
+<img src="images/icons/javascript.png" width="35" alt="javascript" title="javascript">
+<img src="images/icons/bootstrap.png" width="35" alt="bootstrap-4" title="bootstrap-4">
 
 **What I wan to learn**
 <br>
-<img src="images/icons/react.svg" width="30" alt="react-icon" title="react-icon">
-<img src="images/icons/j-query.png" width="30" alt="jQuery-icon" title="jQuery-icon">
+<img src="images/icons/react.svg" width="35" alt="react-icon" title="react-icon">
+<img src="images/icons/j-query.png" width="35" alt="jQuery-icon" title="jQuery-icon">
 
 

@@ -27,5 +27,6 @@ I create Wireframes, Mockups, and Prototypes to map out my project designs.
 **Frameworks**
 <br>
 <img src="images/icons/react.svg" width="30" alt="react-icon" title="react-icon">
-<img src="images/icons/html5.png" width="30" alt="jQuery-icon" title="jQuery-icon">
+<img src="images/icons/j-query.png" width="30" alt="jQuery-icon" title="jQuery-icon">
 <img src="images/icons/bootstrap.png" width="30" alt="bootstrap-4" title="bootstrap-4">
+

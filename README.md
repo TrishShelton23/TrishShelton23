@@ -1,5 +1,5 @@
 <style>
-#icons-group{
+img{
 height:40px;
 }
 }

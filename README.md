@@ -25,7 +25,7 @@ I create Wireframes, Mockups, and Prototypes to map out my project designs.
 <img src="images/icons/javascript.png" width="35" alt="javascript" title="javascript">
 <img src="images/icons/bootstrap.png" width="35" alt="bootstrap-4" title="bootstrap-4">
 
-**What I wan to learn...**
+**What I want to learn...**
 <br>
 <img src="images/icons/react.svg" width="35" alt="react-icon" title="react-icon">
 <img src="images/icons/j-query.png" width="35" alt="jQuery-icon" title="jQuery-icon">

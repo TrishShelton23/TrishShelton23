@@ -23,10 +23,11 @@ I create Wireframes, Mockups, and Prototypes to map out my project designs.
 **I am currently learning...**
 <br>
 <img src="images/icons/javascript.png" width="30" alt="javascript" title="javascript">
+<img src="images/icons/bootstrap.png" width="30" alt="bootstrap-4" title="bootstrap-4">
 
-**Frameworks**
+**What I wan to learn**
 <br>
 <img src="images/icons/react.svg" width="30" alt="react-icon" title="react-icon">
 <img src="images/icons/j-query.png" width="30" alt="jQuery-icon" title="jQuery-icon">
-<img src="images/icons/bootstrap.png" width="30" alt="bootstrap-4" title="bootstrap-4">
+
 

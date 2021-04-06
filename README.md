@@ -7,10 +7,12 @@ My name is Trisheia from Buffalo, NY, and I am a Web Developer and Graphics Desi
 
 I create Wireframes, Mockups, and Prototypes to map out my project designs. 
 <br>
+
 **Design Software**
 <br>
 <img src="images/icons/figma-1.png" width="30">
 <hr>
+
 **My favorite coding languages so far...**
 <br>
 <img src="images/icons/html5.png" width="30" alt="html5" title="html5"> 

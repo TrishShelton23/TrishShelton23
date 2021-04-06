@@ -20,4 +20,4 @@ I create Wireframes, Mockups, and Prototypes using <img src="" alt="figma-icon" 
 <img src="images/icons/react.svg" alt="react-icon" title="react-icon">React
 <img src="images/icons/html5.png" alt="jQuery-icon" title="jQuery-icon">jQuery
 
-I am always enthusiastic about new opportunities and excelling in my career. Feel free to check out my most recent graphics work when I upload it here on <img src="" alt="" title="" a href="https://dribbble.com/T_Moshaire">**Dribble**</a>.
+I am always enthusiastic about new opportunities and excelling in my career. Feel free to check out my most recent graphics work when I upload it here on **[Dribbble](http://dribbble.com)**.

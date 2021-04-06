@@ -10,7 +10,7 @@ I create Wireframes, Mockups, and Prototypes to map out my project designs.
 
 **Design Software**
 <br>
-<img src="images/icons/figma-1.png" width="30" alt="figma" title="figma">
+<img src="images/icons/figma-1.png" width="40" alt="figma" title="figma">
 <img src="images/icons/photoshop.png" width="30" alt="photoshop" title="photoshop">
 <img src="images/icons/github.png" width="30" alt="github" title="github">
 <hr>

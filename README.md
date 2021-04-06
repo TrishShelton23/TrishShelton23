@@ -9,15 +9,15 @@ I create Wireframes, Mockups, and Prototypes using <img src="images/icons/figma-
 
 **My favorite coding languages so far...**
 <br>
-<img src="images/icons/html5.png" width="30" alt="html5" title="html5">HTML 
-<img src="images/icons/css3.png" width="30" alt="css3" title="css3">CSS
+<img src="images/icons/html5.png" width="30" alt="html5" title="html5"> 
+<img src="images/icons/css3.png" width="30" alt="css3" title="css3">
 
 **I am currently learning...**
 <br>
-<img src="images/icons/javascript.png" width="30" alt="javascript" title="javascript">JavaScript
+<img src="images/icons/javascript.png" width="30" alt="javascript" title="javascript">
 
 **Frameworks**
 <br>
-<img src="images/icons/react.svg" width="30" alt="react-icon" title="react-icon">React
-<img src="images/icons/html5.png" width="30" alt="jQuery-icon" title="jQuery-icon">jQuery
+<img src="images/icons/react.svg" width="30" alt="react-icon" title="react-icon">
+<img src="images/icons/html5.png" width="30" alt="jQuery-icon" title="jQuery-icon">
 

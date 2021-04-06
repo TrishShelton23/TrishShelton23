@@ -10,8 +10,9 @@ I create Wireframes, Mockups, and Prototypes to map out my project designs.
 
 **Design Software**
 <br>
-<img src="images/icons/figma-1.png" width="30">
-<img src="images/icons/abode-creative-cloud.svg" width="30">
+<img src="images/icons/figma-1.png" width="30" alt="figma" title="figma">
+<img src="images/icons/photoshop.png" width="30" alt="photoshop" title="photoshop">
+<img src="images/icons/github.png" width="30" alt="github" title="github">
 <hr>
 
 **My favorite coding languages so far...**
@@ -27,4 +28,4 @@ I create Wireframes, Mockups, and Prototypes to map out my project designs.
 <br>
 <img src="images/icons/react.svg" width="30" alt="react-icon" title="react-icon">
 <img src="images/icons/html5.png" width="30" alt="jQuery-icon" title="jQuery-icon">
-
+<img src="images/icons/bootstrap.png" width="30" alt="bootstrap-4" title="bootstrap-4">

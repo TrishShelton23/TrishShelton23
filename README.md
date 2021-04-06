@@ -16,6 +16,7 @@ I create Wireframes, Mockups, and Prototypes to map out my project designs.
 <hr>
 
 **My favorite coding languages so far...**
+<br>
 <img src="images/icons/html5.png" width="35" alt="html5" title="html5"> 
 <img src="images/icons/css3.png" width="35" alt="css3" title="css3">
 

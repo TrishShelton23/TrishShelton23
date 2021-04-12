@@ -28,6 +28,6 @@ I create Wireframes, Mockups, and Prototypes to map out my project designs.
 **What I wan to learn**
 <br>
 <img src="images/icons/react.svg" width="35" alt="react-icon" title="react-icon">
-<img src="images/icons/j-query.png" width="35" alt="jQuery-icon" title="jQuery-icon">
+<img src="images/icons/angular.png" width="35" alt="angular-icon" title="angular-icon">
 
 

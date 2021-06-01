@@ -23,7 +23,6 @@ I create Wireframes, Mockups, and Prototypes to map out my project designs.
 **I am currently learning...**
 <br>
 <img src="images/icons/javascript.png" width="35" alt="javascript" title="javascript">
-<img src="images/icons/bootstrap.png" width="35" alt="bootstrap-4" title="bootstrap-4">
 
 **I want to learn...**
 <br>

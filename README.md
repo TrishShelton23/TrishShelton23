@@ -15,7 +15,7 @@ I create Wireframes, Mockups, and Prototypes to map out my project designs.
 <img src="images/icons/github.png" width="35" alt="github" title="github">
 <hr>
 
-**Improving in languages...**
+**I have learned...**
 <br>
 <img src="images/icons/html5.png" width="35" alt="html5" title="html5"> 
 <img src="images/icons/css3.png" width="35" alt="css3" title="css3">
@@ -23,7 +23,6 @@ I create Wireframes, Mockups, and Prototypes to map out my project designs.
 **I am currently learning...**
 <br>
 <img src="images/icons/javascript.png" width="35" alt="javascript" title="javascript">
-<img src="images/icons/bootstrap.png" width="35" alt="bootstrap-4" title="bootstrap-4">
 
 **I want to learn...**
 <br>

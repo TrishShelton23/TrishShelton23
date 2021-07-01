@@ -1,5 +1,5 @@
 
-<img src="/Users/trisheiashelton/Documents/git/TrishShelton23/images/GitHub-Banner.jpg" alt="Trisheia-Moshaire-Banne" title="GitHub-Banner">
+<img src="images/GitHub-Banner.jpg" alt="Trisheia-Moshaire-Banner" title="GitHub-Banner">
 
 ## Who Am I?
 My name is Trisheia from Buffalo, NY, and I am a Web Developer and Graphics Designer. Passionate about creating beautifully minimal website designs with user-friendly interfaces. I am always enthusiastic about new opportunities and excelling in my career. Feel free to check out my most recent graphics work when I upload it here on **[Dribbble](http://dribbble.com)**.
